@@ -1,0 +1,11 @@
+{
+ "login":{
+            "code": "admin",
+            "pwd": "418FE8C4A00CB0CFA1909D659CB7A406D03EA0AC9DA98CDA0F9C57A157083765291ED5275B742A48D4DA123AB9CE3C9A6D53627830DBB7EE5F1750A497BACE99"
+          },
+  "logout": {
+            "code": "admin",
+            "pwd": "qweewqeqwewqewqq"
+  }
+
+}

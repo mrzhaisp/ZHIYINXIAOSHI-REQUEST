@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a58101d-dcc0-414b-a698-1eaa455721cf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../ZHIYINCODE-PO/Test-copy/properpy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>http://10.168.103.151/video_analysis/video_origin/pageQuery</find>
+      <find>洛桑龙达金刚上师唐卡艺术个人展 亮相大英博物馆</find>
+      <find>title</find>
+      <find>base_host</find>
+      <find>title_id_list</find>
+      <find>url.split('getEntityById?id=')[1]</find>
+      <find>detailText</find>
+      <find>load_video_path</find>
+      <find>file_base_path</find>
+      <find>10.168.103</find>
+      <find>tesser</find>
+      <find>enh_con</find>
+      <find>他</find>
+      <find>section</find>
+      <find>self</find>
+      <find>video_name</find>
+      <find>print</find>
+      <find>solv_log_waring</find>
+      <find>其它</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>cls</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ZHIYINCODE-PO" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Testsuit/login.py" />
+        <option value="$PROJECT_DIR$/test-copy/login_get_session.py" />
+        <option value="$PROJECT_DIR$/test-copy/pq.py" />
+        <option value="$PROJECT_DIR$/Commonlib/read_json.py" />
+        <option value="$PROJECT_DIR$/test-copy/test_search_keywords.py" />
+        <option value="$PROJECT_DIR$/Data/dataconfig.py" />
+        <option value="$PROJECT_DIR$/Data/json_data.json" />
+        <option value="$PROJECT_DIR$/Commonlib/read_json_param.py" />
+        <option value="$PROJECT_DIR$/Data/search_video.json" />
+        <option value="$PROJECT_DIR$/Testsuit/search_dim_people.py" />
+        <option value="$PROJECT_DIR$/Testsuit/guoziwei_video_list.py" />
+        <option value="$PROJECT_DIR$/../ZHIYINCODE-PO/Test-copy/test_list_name.py" />
+        <option value="$PROJECT_DIR$/Testsuit/ubitest_method.py" />
+        <option value="$PROJECT_DIR$/Testsuit/pageone_coliun_videoname.py" />
+        <option value="$PROJECT_DIR$/test-copy/test_self.py" />
+        <option value="$PROJECT_DIR$/test-copy/area.py" />
+        <option value="$PROJECT_DIR$/test-copy/car_4s.py" />
+        <option value="$PROJECT_DIR$/test-copy/error_test.py" />
+        <option value="$PROJECT_DIR$/test-copy/template/test.html" />
+        <option value="$PROJECT_DIR$/test-copy/js/hell.js.html" />
+        <option value="$PROJECT_DIR$/test-copy/js/hello.js" />
+        <option value="$PROJECT_DIR$/test-copy/js_javascript/js_嵌入界面.html" />
+        <option value="$PROJECT_DIR$/test-copy/request_url.py" />
+        <option value="$PROJECT_DIR$/test-copy/test_url_error.py" />
+        <option value="$PROJECT_DIR$/test-copy/151_test_url_error.py" />
+        <option value="$PROJECT_DIR$/test-copy/write_csv.py" />
+        <option value="$PROJECT_DIR$/test-copy/151_write_csv.py" />
+        <option value="$PROJECT_DIR$/test-copy/151_request_url.py" />
+        <option value="$PROJECT_DIR$/Testsuit/search_video.py" />
+        <option value="$PROJECT_DIR$/Testsuit/load_video.py" />
+        <option value="$PROJECT_DIR$/test-copy/data_test.py" />
+        <option value="$PROJECT_DIR$/test-copy/test_video.py" />
+        <option value="$PROJECT_DIR$/Testsuit/load_video_v2.py" />
+        <option value="$PROJECT_DIR$/Commonlib/read_video_name.py" />
+        <option value="$PROJECT_DIR$/Commonlib/read_video_name_v2.py" />
+        <option value="$PROJECT_DIR$/Commonlib/get_video_name.py" />
+        <option value="$PROJECT_DIR$/test-copy/test_yanzhengma.py" />
+        <option value="$PROJECT_DIR$/Testsuit/login_method.py" />
+        <option value="$PROJECT_DIR$/test-copy/renren_login.py" />
+        <option value="$PROJECT_DIR$/Testsuit/cookie_to_login.py" />
+        <option value="$PROJECT_DIR$/test-copy/jiexiyuming_test.py" />
+        <option value="$PROJECT_DIR$/Testsuit/load_video_v3.py" />
+        <option value="$PROJECT_DIR$/test-copy/load_video_filter.py" />
+        <option value="$PROJECT_DIR$/Commonlib/mysql_clinet.py" />
+        <option value="$PROJECT_DIR$/Commonlib/commonlib.py" />
+        <option value="$PROJECT_DIR$/Testsuit/load_video_filter.py" />
+        <option value="$PROJECT_DIR$/Testsuit/cookie_to_login_loadvideo.py" />
+        <option value="$PROJECT_DIR$/../ZHIYINCODE-PO/Test-copy/people_num.py" />
+        <option value="$PROJECT_DIR$/../ZHIYINCODE-PO/Test-copy/properpy.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1699" />
+    <option name="y" value="-8" />
+    <option name="width" value="1856" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ZHIYINXIAOSHI-REQUEST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZHIYINCODE-PO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZHIYINXIAOSHI-REQUEST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZHIYINCODE-PO" type="462c0819:PsiDirectoryNode" />
+              <item name="Test-copy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Testsuit" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Test\ZHIYINXIAOSHI-REQUEST\Testsuit" />
+      <recent name="C:\Users\Test\ZHIYINXIAOSHI-REQUEST\Commonlib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Test\ZHIYINXIAOSHI-REQUEST\test-copy" />
+      <recent name="C:\Users\Test\ZHIYINXIAOSHI-REQUEST\Testsuit" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.properpy">
+    <configuration name="load_video_filter (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ZHIYINXIAOSHI-REQUEST" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testsuit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testsuit/load_video_filter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="people_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="POTESTPROJECT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ZHIYINCODE-PO/Test-copy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ZHIYINCODE-PO/Test-copy/people_num.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="properpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="POTESTPROJECT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ZHIYINCODE-PO/Test-copy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ZHIYINCODE-PO/Test-copy/properpy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for cookie_to_login_loadvideo.TestLoadvideo" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ZHIYINXIAOSHI-REQUEST" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testsuit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;cookie_to_login_loadvideo.TestLoadvideo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in cookie_to_login_loadvideo.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ZHIYINXIAOSHI-REQUEST" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testsuit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Testsuit/cookie_to_login_loadvideo.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.properpy" />
+        <item itemvalue="Python.people_num" />
+        <item itemvalue="Python tests.Unittests in cookie_to_login_loadvideo.py" />
+        <item itemvalue="Python tests.Unittests for cookie_to_login_loadvideo.TestLoadvideo" />
+        <item itemvalue="Python.load_video_filter (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a58101d-dcc0-414b-a698-1eaa455721cf" name="Default Changelist" comment="" />
+      <created>1563937860885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563937860885</updated>
+      <workItem from="1563937862571" duration="6265000" />
+      <workItem from="1564036460428" duration="70000" />
+      <workItem from="1564968054579" duration="2062000" />
+      <workItem from="1565141245203" duration="23285000" />
+      <workItem from="1565225664992" duration="12903000" />
+      <workItem from="1565593039558" duration="5570000" />
+      <workItem from="1565658574664" duration="18313000" />
+      <workItem from="1565688102642" duration="742000" />
+      <workItem from="1565743764371" duration="9359000" />
+      <workItem from="1565840356030" duration="13953000" />
+      <workItem from="1565924236163" duration="946000" />
+      <workItem from="1565926008111" duration="434000" />
+      <workItem from="1566181564194" duration="223000" />
+      <workItem from="1566353691248" duration="20204000" />
+      <workItem from="1566434794628" duration="20172000" />
+      <workItem from="1566462198249" duration="4615000" />
+      <workItem from="1566521774774" duration="1422000" />
+      <workItem from="1566531442445" duration="2502000" />
+      <workItem from="1566801933948" duration="8292000" />
+      <workItem from="1566867035830" duration="6399000" />
+      <workItem from="1566969525269" duration="4925000" />
+      <workItem from="1566974967998" duration="5042000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_cookie_to_login_loadvideo_py - 2019.08.27 at 13h 59m 10s.xml">
+      <configuration name="Unittests in cookie_to_login_loadvideo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_cookie_to_login_loadvideo_py - 2019.08.28 at 13h 19m 15s.xml">
+      <configuration name="Unittests in cookie_to_login_loadvideo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_cookie_to_login_loadvideo_py - 2019.08.28 at 14h 20m 31s.xml">
+      <configuration name="Unittests in cookie_to_login_loadvideo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_cookie_to_login_loadvideo_py - 2019.08.28 at 14h 22m 19s.xml">
+      <configuration name="Unittests in cookie_to_login_loadvideo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_cookie_to_login_loadvideo_TestLoadvideo - 2019.08.28 at 14h 33m 44s.xml">
+      <configuration name="Unittests for cookie_to_login_loadvideo.TestLoadvideo" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_cookie_to_login_loadvideo_py - 2019.08.28 at 14h 36m 37s.xml">
+      <configuration name="Unittests in cookie_to_login_loadvideo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_cookie_to_login_loadvideo_py - 2019.08.28 at 14h 37m 09s.xml">
+      <configuration name="Unittests in cookie_to_login_loadvideo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_cookie_to_login_loadvideo_py - 2019.08.28 at 14h 38m 27s.xml">
+      <configuration name="Unittests in cookie_to_login_loadvideo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_cookie_to_login_loadvideo_py - 2019.08.28 at 14h 39m 43s.xml">
+      <configuration name="Unittests in cookie_to_login_loadvideo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_cookie_to_login_loadvideo_py - 2019.08.28 at 15h 29m 09s.xml">
+      <configuration name="Unittests in cookie_to_login_loadvideo.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="167698000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2262419" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33844468" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25431967" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24971363" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Testsuit/search_video.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$Unittests_in_search_dim_people_py.coverage" NAME="Unittests in search_dim_people.py Coverage Results" MODIFIED="1565682805012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$Unittests_for_pageone_coliun_videoname_GetColumNameList.coverage" NAME="Unittests for pageone_coliun_videoname.GetColumNameList Coverage Results" MODIFIED="1565688824237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$load_video_v3.coverage" NAME="load_video_v3 Coverage Results" MODIFIED="1566548450739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$guoziwei_video_list.coverage" NAME="guoziwei_video_list Coverage Results" MODIFIED="1565686202702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$pq.coverage" NAME="pq Coverage Results" MODIFIED="1565228300818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$Unittests_in_jiexiyuming_test_py.coverage" NAME="Unittests in jiexiyuming_test.py Coverage Results" MODIFIED="1566807075538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$load_video_filter__2_.coverage" NAME="load_video_filter (2) Coverage Results" MODIFIED="1566973955660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$load_video.coverage" NAME="load_video Coverage Results" MODIFIED="1566372403866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$people_num.coverage" NAME="people_num Coverage Results" MODIFIED="1566978947639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ZHIYINCODE-PO/Test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$test_list_name.coverage" NAME="test_list_name Coverage Results" MODIFIED="1565687700659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ZHIYINCODE-PO/Test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$Unittests_in_login_method_py.coverage" NAME="Unittests in login_method.py Coverage Results" MODIFIED="1566358413995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$151_write_csv.coverage" NAME="151_write_csv Coverage Results" MODIFIED="1565854619852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$151_test_url_error.coverage" NAME="151_test_url_error Coverage Results" MODIFIED="1565847535873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$load_video_filter__1_.coverage" NAME="load_video_filter (1) Coverage Results" MODIFIED="1566973005511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$151_request_url.coverage" NAME="151_request_url Coverage Results" MODIFIED="1565854688101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$Unittests_in_pageone_coliun_videoname_py.coverage" NAME="Unittests in pageone_coliun_videoname.py Coverage Results" MODIFIED="1565688797951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$area.coverage" NAME="area Coverage Results" MODIFIED="1565750660370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$commonlib.coverage" NAME="commonlib Coverage Results" MODIFIED="1566803266594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Commonlib" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$data_test.coverage" NAME="data_test Coverage Results" MODIFIED="1566376953966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$search_video.coverage" NAME="search_video Coverage Results" MODIFIED="1565668398536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$test_search_keywords.coverage" NAME="test_search_keywords Coverage Results" MODIFIED="1565249731309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$login.coverage" NAME="login Coverage Results" MODIFIED="1563940013484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$renren_login.coverage" NAME="renren_login Coverage Results" MODIFIED="1566803691425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$Unittests_in_cookie_to_login_py.coverage" NAME="Unittests in cookie_to_login_loadvideo.py Coverage Results" MODIFIED="1566807306853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$test_url_error.coverage" NAME="test_url_error Coverage Results" MODIFIED="1565844359397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$test_yanzhengma.coverage" NAME="test_yanzhengma Coverage Results" MODIFIED="1566522830001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$login_get_session.coverage" NAME="login_get_session Coverage Results" MODIFIED="1565163764755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$jiexiyuming_test.coverage" NAME="jiexiyuming_test Coverage Results" MODIFIED="1565926301829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$load_video_filter.coverage" NAME="load_video_filter Coverage Results" MODIFIED="1566971008146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$Unittests_for_search_dim_people_SearchPeople_test_search_people.coverage" NAME="Unittests for search_dim_people.SearchPeople.test_search_people Coverage Results" MODIFIED="1565679003304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$car_4s.coverage" NAME="car_4s Coverage Results" MODIFIED="1565750916864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$test_video.coverage" NAME="test_video Coverage Results" MODIFIED="1566379190890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$Unittests_for_cookie_to_login_TestLoadvideo_test_001.coverage" NAME="Unittests for cookie_to_login.TestLoadvideo.test_001 Coverage Results" MODIFIED="1566805005343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$mysql_clinet.coverage" NAME="mysql_clinet Coverage Results" MODIFIED="1566973807662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Commonlib" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$request_url.coverage" NAME="request_url Coverage Results" MODIFIED="1565847340597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$get_video_name.coverage" NAME="get_video_name Coverage Results" MODIFIED="1566439427429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Commonlib" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$load_video_v2.coverage" NAME="load_video_v2 Coverage Results" MODIFIED="1566436903295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$Unittests_for_search_dim_people_SearchPeople.coverage" NAME="Unittests for search_dim_people.SearchPeople Coverage Results" MODIFIED="1565678235343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$Unittests_in_cookie_to_login_loadvideo_py.coverage" NAME="Unittests in cookie_to_login_loadvideo.py Coverage Results" MODIFIED="1566977346595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$test_self.coverage" NAME="test_self Coverage Results" MODIFIED="1565749388443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$Unittests_for_cookie_to_login_loadvideo_TestLoadvideo_test01.coverage" NAME="Unittests for cookie_to_login_loadvideo.TestLoadvideo.test01 Coverage Results" MODIFIED="1566884947952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$Unittests_for_cookie_to_login_loadvideo_TestLoadvideo.coverage" NAME="Unittests for cookie_to_login_loadvideo.TestLoadvideo Coverage Results" MODIFIED="1566974006074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$read_json_param.coverage" NAME="read_json_param Coverage Results" MODIFIED="1565602106233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Commonlib" />
+    <SUITE FILE_PATH="coverage/ZHIYINXIAOSHI_REQUEST$properpy.coverage" NAME="properpy Coverage Results" MODIFIED="1566980641467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ZHIYINCODE-PO/Test-copy" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test-copy/test_search_keywords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding>
+            <element signature="e#46#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/dataconfig.py" />
+    <entry file="file://$PROJECT_DIR$/Data/login_data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/search_video.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ZHIYINCODE-PO/Reporter/151_selenium_UI_report.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ZHIYINCODE-PO/Test-copy/test_list_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-copy/guoziwei_video_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-copy/test_self.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-copy/error_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-copy/js_javascript/test.html" />
+    <entry file="file://$PROJECT_DIR$/test-copy/js/hell.js.html" />
+    <entry file="file://$PROJECT_DIR$/test-copy/js_javascript/js_嵌入界面.html" />
+    <entry file="file://$PROJECT_DIR$/test-copy/js/hello.js" />
+    <entry file="file://$PROJECT_DIR$/test-copy/151_test_url_error.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="939">
+          <caret line="3916" column="36" lean-forward="true" selection-start-line="3916" selection-start-column="36" selection-end-line="3916" selection-end-column="36" />
+          <folding>
+            <element signature="e#64#25712#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-copy/151_test_id.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-copy/151_request_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="3902" column="8" lean-forward="true" selection-start-line="3902" selection-start-column="8" selection-end-line="3902" selection-end-column="8" />
+          <folding>
+            <element signature="e#137#25785#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="151" column="25" selection-start-line="151" selection-start-column="25" selection-end-line="151" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/json/decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="356" selection-start-line="356" selection-end-line="356" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-copy/test_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commonlib/read_video_name.py" />
+    <entry file="file://$PROJECT_DIR$/test-copy/load_video_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="75" column="46" selection-start-line="75" selection-start-column="36" selection-end-line="75" selection-end-column="46" />
+          <folding>
+            <element signature="e#46#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commonlib/read_video_name_v2.py" />
+    <entry file="file://$PROJECT_DIR$/Commonlib/get_video_name.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages/pymysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commonlib/read_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commonlib/read_json_param.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commonlib/read_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picture/test.png" />
+    <entry file="file://$PROJECT_DIR$/picture/yanzhengma.png" />
+    <entry file="file://$PROJECT_DIR$/test-copy/test_yanzhengma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#46#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testsuit/login_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#219#256#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testsuit/pageone_coliun_videoname.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#46#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testsuit/search_dim_people.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testsuit/search_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="e#46#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-copy/load_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-copy/renren_login.py" />
+    <entry file="file://$PROJECT_DIR$/test-copy/data_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-copy/car_4s.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="45" column="27" lean-forward="true" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#472#475#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-copy/area.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-copy/151_write_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="43" column="48" lean-forward="true" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+          <folding>
+            <element signature="e#46#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-copy/jiexiyuming_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="e#61#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-copy/load_video_v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="80" column="36" lean-forward="true" selection-start-line="80" selection-start-column="36" selection-end-line="80" selection-end-column="36" />
+          <folding>
+            <element signature="e#46#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commonlib/mysql_clinet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#317#819#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ZHIYINCODE-PO/Test-copy/people_num.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testsuit/cookie_to_login_loadvideo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+          <folding>
+            <element signature="e#46#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testsuit/load_video_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="110" column="57" lean-forward="true" selection-start-line="110" selection-start-column="57" selection-end-line="110" selection-end-column="57" />
+          <folding>
+            <element signature="e#46#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commonlib/commonlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ZHIYINCODE-PO/Commonlib/commonlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#46#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ZHIYINCODE-PO/Testsuit/a_login_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ZHIYINCODE-PO/Test-copy/properpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

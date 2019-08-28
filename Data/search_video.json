@@ -1,0 +1,17 @@
+{
+  "search_sucess": {
+    "keywords": "{'search_keywords': '《直播港澳台》他是法国总统马克龙身后的中国通 曾拿书给习近平签名'}",
+    "expect": "['《直播港澳台》他是法国总统马克龙身后的中国通 曾拿书给习近平签名']",
+    "is_sucess": true
+  },
+  "search_none": {
+    "keywords": "{'search_keywords': '··'}",
+    "expect": "[]",
+    "is_sucess": false
+  },
+  "search_error": {
+    "keywords": "{'search_keywords': '张三'}",
+    "expect": "[]",
+    "is_sucess": false
+  }
+}
